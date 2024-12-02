@@ -14,7 +14,7 @@ ssh进入路由器
 
 K2P以外机型执行
 
-`curl https://cdn.jsdelivr.net/gh/fangxx3863/overwall_list/Overwall_Patch.sh|sh`
+`curl https://github.com/winxboy/overwall_list/blob/main/Overwall_Patch.sh|sh`
 
 K2P(16M/32M通用)执行
 
